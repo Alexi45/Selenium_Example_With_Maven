@@ -1,0 +1,6 @@
+runner\RunCucumberTest.class
+page_objects\BasePAGE.class
+page_objects\googleSearchResultPage.class
+steps\StepsGoogleWiki.class
+page_objects\WikipediaPage.class
+page_objects\googlePage.class

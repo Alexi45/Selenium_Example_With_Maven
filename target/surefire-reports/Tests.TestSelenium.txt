@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Tests.TestSelenium
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.041 sec <<< FAILURE! - in Tests.TestSelenium
+testA(Tests.TestSelenium)  Time elapsed: 0.01 sec  <<< ERROR!
+java.lang.NullPointerException
+	at Tests.TestSelenium.testA(TestSelenium.java:49)
+
